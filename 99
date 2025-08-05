@@ -1,0 +1,3 @@
+if game.PlaceId == 126509999114328 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SigmaBoy2289977/SSS/refs/heads/main/Script"))()
